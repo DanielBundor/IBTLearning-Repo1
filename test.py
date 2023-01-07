@@ -1,2 +1,2 @@
 writing an automation script
-Author : Daniel
+Author : Daniel Bundor
